@@ -1,0 +1,11 @@
+Package: Friedman
+Title: Simple Helpers for Library Data
+Version: 0.0.0.9000
+Authors@R: person("Michael", "Holstein", email = "mikeh143@yahoo.com", role = c("aut", "cre"))
+Description: A small package of helper functions for common library and information science data tasks. It is meant for students who need quick summaries and simple plots without writing the same code over and over.
+Depends: R (>= 3.1.2)
+Imports: ggplot2, dplyr
+License: CC0
+LazyData: true
+URL: https://github.com/mikehgit143/Friedman
+BugReports: https://github.com/mikehgit143/Friedman/issues
